@@ -2064,7 +2064,234 @@
             "target": "盐",
             "value": 3
         },
-
+        {
+            "relation": "选材",
+            "source": "蕃茄火腿意面",
+            "target": "意大利面",
+            "value": 3
+        },
+        {
+            "relation": "选材",
+            "source": "蕃茄火腿意面",
+            "target": "火腿",
+            "value": 3
+        },
+        {
+            "relation": "选材",
+            "source": "蕃茄火腿意面",
+            "target": "蕃茄",
+            "value": 3
+        },
+        {
+            "relation": "选材",
+            "source": "蕃茄火腿意面",
+            "target": "蕃茄酱",
+            "value": 3
+        },
+        {
+            "relation": "选材",
+            "source": "蕃茄火腿意面",
+            "target": "蒜",
+            "value": 3
+        },
+        {
+            "relation": "选材",
+            "source": "蕃茄火腿意面",
+            "target": "西兰花",
+            "value": 3
+        },
+        {
+            "relation": "选材",
+            "source": "蕃茄火腿意面",
+            "target": "胡椒",
+            "value": 3
+        },
+        {
+            "relation": "选材",
+            "source": "海鲜意面",
+            "target": "意大利面",
+            "value": 3
+        },
+        {
+            "relation": "选材",
+            "source": "海鲜意面",
+            "target": "虾",
+            "value": 3
+        },
+        {
+            "relation": "选材",
+            "source": "海鲜意面",
+            "target": "鱿鱼",
+            "value": 3
+        },
+        {
+            "relation": "选材",
+            "source": "海鲜意面",
+            "target": "西兰花",
+            "value": 3
+        },
+        {
+            "relation": "选材",
+            "source": "海鲜意面",
+            "target": "圣女果",
+            "value": 3
+        },
+        {
+            "relation": "选材",
+            "source": "海鲜意面",
+            "target": "盐",
+            "value": 3
+        },
+        {
+            "relation": "选材",
+            "source": "海鲜意面",
+            "target": "罗勒",
+            "value": 3
+        },
+        {
+            "relation": "选材",
+            "source": "海鲜意面",
+            "target": "胡椒",
+            "value": 3
+        },
+        {
+            "relation": "选材",
+            "source": "海鲜意面",
+            "target": "橄榄油",
+            "value": 3
+        },
+        {
+            "relation": "选材",
+            "source": "香椿意面",
+            "target": "意大利面",
+            "value": 3
+        },
+        {
+            "relation": "选材",
+            "source": "香椿意面",
+            "target": "香椿",
+            "value": 3
+        },
+        {
+            "relation": "选材",
+            "source": "香椿意面",
+            "target": "小番茄",
+            "value": 3
+        },
+        {
+            "relation": "选材",
+            "source": "香椿意面",
+            "target": "腰果",
+            "value": 3
+        },
+        {
+            "relation": "选材",
+            "source": "香椿意面",
+            "target": "亚麻籽",
+            "value": 3
+        },
+        {
+            "relation": "选材",
+            "source": "香椿意面",
+            "target": "薄荷叶",
+            "value": 3
+        },
+        {
+            "relation": "选材",
+            "source": "牛油果酱海鲜意面",
+            "target": "意大利面",
+            "value": 3
+        },
+        {
+            "relation": "选材",
+            "source": "牛油果酱海鲜意面",
+            "target": "牛油果",
+            "value": 3
+        },
+        {
+            "relation": "选材",
+            "source": "牛油果酱海鲜意面",
+            "target": "虾仁",
+            "value": 3
+        },
+        {
+            "relation": "选材",
+            "source": "牛油果酱海鲜意面",
+            "target": "蟹柳",
+            "value": 3
+        },
+        {
+            "relation": "选材",
+            "source": "牛油果酱海鲜意面",
+            "target": "柠檬汁",
+            "value": 3
+        },
+        {
+            "relation": "选材",
+            "source": "牛油果酱海鲜意面",
+            "target": "牛奶",
+            "value": 3
+        },
+        {
+            "relation": "选材",
+            "source": "牛油果酱海鲜意面",
+            "target": "培根",
+            "value": 3
+        },
+        {
+            "relation": "选材",
+            "source": "牛油果酱海鲜意面",
+            "target": "蒜",
+            "value": 3
+        },
+        {
+            "relation": "选材",
+            "source": "牛油果酱海鲜意面",
+            "target": "胡椒",
+            "value": 3
+        },
+        {
+            "relation": "选材",
+            "source": "茄汁培根炒意面",
+            "target": "意大利面",
+            "value": 3
+        },
+        {
+            "relation": "选材",
+            "source": "茄汁培根炒意面",
+            "target": "培根",
+            "value": 3
+        },
+        {
+            "relation": "选材",
+            "source": "茄汁培根炒意面",
+            "target": "番茄",
+            "value": 3
+        },
+        {
+            "relation": "选材",
+            "source": "茄汁培根炒意面",
+            "target": "胡萝卜",
+            "value": 3
+        },
+        {
+            "relation": "选材",
+            "source": "茄汁培根炒意面",
+            "target": "葱",
+            "value": 3
+        },
+        {
+            "relation": "选材",
+            "source": "茄汁培根炒意面",
+            "target": "糖",
+            "value": 3
+        },
+        {
+            "relation": "选材",
+            "source": "茄汁培根炒意面",
+            "target": "盐",
+            "value": 3
+        },
         {
             "relation": "属于",
             "source": "1-故障1",
@@ -2421,7 +2648,12 @@
             "id": "水煮牛肉片",
             "size": "10"
         },
-
+        {
+            "class": "精品特色菜",
+            "group": "1",
+            "id": "蕃茄火腿意面",
+            "size": "10"
+        },
         {
             "class": "精品特色菜",
             "group": "1",
@@ -2452,7 +2684,12 @@
             "id": "糖醋排骨",
             "size": "10"
         },
-
+        {
+            "class": "精品特色菜",
+            "group": "1",
+            "id": "牛油果酱海鲜意面",
+            "size": "10"
+        },
         {
             "class": "精品特色菜",
             "group": "1",
@@ -2513,8 +2750,18 @@
             "id": "啤酒红烧鱼",
             "size": "10"
         },
-
-
+        {
+            "class": "精品特色菜",
+            "group": "1",
+            "id": "茄汁培根炒意面",
+            "size": "10"
+        },
+        {
+            "class": "精品特色菜",
+            "group": "1",
+            "id": "海鲜意面",
+            "size": "10"
+        },
         {
             "class": "精品特色菜",
             "group": "1",
@@ -2599,7 +2846,12 @@
             "id": "水煮鱼",
             "size": "10"
         },
-
+        {
+            "class": "精品特色菜",
+            "group": "1",
+            "id": "香椿意面",
+            "size": "10"
+        },
         {
             "class": "精品特色菜",
             "group": "1",
@@ -3380,7 +3632,12 @@
             "id": "7-凉拌黑木耳类",
             "size": "16"
         },
-
+        {
+            "class": "菜品大类",
+            "group": "0",
+            "id": "10-意大利面类",
+            "size": "16"
+        },
         {
             "class": "菜品大类",
             "group": "0",
