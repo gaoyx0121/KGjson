@@ -2166,36 +2166,8 @@
             "target": "意大利面",
             "value": 3
         },
-        {
-            "relation": "选材",
-            "source": "香椿意面",
-            "target": "香椿",
-            "value": 3
-        },
-        {
-            "relation": "选材",
-            "source": "香椿意面",
-            "target": "小番茄",
-            "value": 3
-        },
-        {
-            "relation": "选材",
-            "source": "香椿意面",
-            "target": "腰果",
-            "value": 3
-        },
-        {
-            "relation": "选材",
-            "source": "香椿意面",
-            "target": "亚麻籽",
-            "value": 3
-        },
-        {
-            "relation": "选材",
-            "source": "香椿意面",
-            "target": "薄荷叶",
-            "value": 3
-        },
+
+       
         {
             "relation": "选材",
             "source": "牛油果酱海鲜意面",
